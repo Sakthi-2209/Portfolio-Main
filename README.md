@@ -1,145 +1,182 @@
-# Portfolio Website
+# 👋 Hi, I'm Sakthivel V
 
-This is the personal portfolio website of Sakthivel V, showcasing my work as a software developer and data analytics enthusiast. The portfolio highlights my education, technical skills, projects, certifications, and contact details in a clean and modern layout.
+### 💻 Software Developer | 🌐 Full-Stack Web Development | 📊 Data Analytics
 
----
+Welcome to my personal portfolio repository!
 
-## About Me
+I’m a **B.Tech Information Technology graduate** with hands-on experience in building web applications, backend services, databases, and interactive data analytics dashboards.
 
-I am a B.Tech Information Technology graduate from Karpagam College of Engineering with a strong interest in software development, full-stack web applications, and data analytics.
-
-I enjoy building practical solutions, turning requirements into working applications, and presenting insights through interactive dashboards and data-driven reports.
+I enjoy transforming ideas into practical, user-friendly applications and continuously improving my technical skills through real-world projects.
 
 ---
 
-## Skills
+## 🌐 Portfolio
 
-### Programming
-- Java
-- Python
-- C
-- JavaScript
-
-### Web Development
-- HTML
-- CSS
-- Bootstrap
-- Spring Boot
-- REST APIs
-
-### Database
-- MySQL
-- MongoDB
-- SQL
-
-### Data Analytics
-- Power BI
-- Data Visualization
-- Dashboarding
-- SQL Analysis
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Eclipse
-
-### Strengths
-- Communication
-- Teamwork
-- Leadership
-- Creativity
+🚀 **Explore my portfolio:**  
+👉 [View Portfolio Website](https://sakthi-2209.github.io/Portfolio-Main/)
 
 ---
 
-## Projects
+## 👨‍💻 About Me
 
-### 1. Laundry Management Portal
-A full-stack web application for laundry service bookings, order management, and customer enquiries with backend support and database storage.
-
-Technologies used:
-- Java
-- Spring Boot
-- MySQL
-- JavaScript
-
-### 2. On Duty Management System
-A duty scheduling and tracking system for managing assignments, allocation, and progress monitoring.
-
-Technologies used:
-- HTML
-- CSS
-- Bootstrap
-- MySQL
-- PHP
-
-### 3. Men's Dressing Shop
-An e-commerce website for a men's clothing store featuring product browsing, cart functionality, and login interface.
-
-Technologies used:
-- HTML
-- CSS
-- JavaScript
-
-### 4. Power BI Dashboards
-Interactive dashboards created for data analysis and visual storytelling, including:
-- Weather Analysis Dashboard
-- Prime Video Dashboard
-- Sales Dashboard
+- 🎓 B.Tech Information Technology graduate from **Karpagam College of Engineering**
+- 💻 Interested in **Software Development & Full-Stack Web Development**
+- 🔧 Hands-on experience with **Java, Python, JavaScript, Spring Boot and SQL**
+- 🗄️ Experience working with **MySQL and MongoDB**
+- 📊 Developed interactive **Power BI dashboards**
+- 🚀 Interested in building practical and scalable applications
+- 🤝 Strong in communication, teamwork, leadership and creativity
 
 ---
 
-## Education
+## 🛠️ Technical Skills
 
-- B.Tech Information Technology — Karpagam College of Engineering, Coimbatore (2026)
-  - CGPA: 8.16
-- HSC — Sri Ramakrishna Matric Higher Secondary School, Perambalur (2022)
-  - 92.5%
-- SSLC — Sri Ramakrishna Matric Higher Secondary School, Perambalur (2020)
-  - 99%
+### 💻 Programming
+`Java` `Python` `C` `JavaScript`
 
----
+### 🌐 Web Development
+`HTML` `CSS` `Bootstrap` `JavaScript` `Spring Boot` `REST APIs`
 
-## Certifications
+### 🗄️ Database
+`MySQL` `MongoDB` `SQL`
 
-- JavaScript & SQL — HackerRank
-- Web Development — CodSoft Internship
-- Java — IIT Spoken Tutorial
-- Python — IIT Spoken Tutorial
-- Full Stack Development — Infosys SpringBoard
-- Java Programming — Great Learning
-- Introduction to MongoDB
+### 📊 Data Analytics
+`Power BI` `Data Visualization` `Dashboarding` `SQL Analysis`
+
+### 🔧 Tools
+`Git` `GitHub` `VS Code` `Eclipse`
 
 ---
 
-## Contact
+# 🚀 Featured Projects
 
-- Email: sakthi270929@gmail.com
-- LinkedIn: https://www.linkedin.com/in/sakthivel2209/
-- GitHub: https://github.com/Sakthi-2209
-- Instagram: https://www.instagram.com/_.sakthi_22._?stkn=MWNmaDc2ZmxoY21s&utm_source=qr
+## 🧺 1. Laundry Management Portal
 
----
+A full-stack web application designed to manage laundry service bookings, customer orders and enquiries.
 
-## Portfolio Preview
+### Key Features
+- Customer order management
+- Laundry service booking
+- Customer enquiry management
+- Backend API integration
+- Database storage
+- Admin-side order and enquiry management
 
-This portfolio includes a modern landing page, skills section, project showcase, analytics dashboards, education timeline, and contact section.
+### Tech Stack
 
----
-
-## Run Locally
-
-1. Clone the repository
-2. Open the project folder in VS Code
-3. Open `index.html` in a browser
-
-You can also use a local preview extension or a simple live server for development.
+`Java` `Spring Boot` `MySQL` `JavaScript` `HTML` `CSS`
 
 ---
 
-## Author
+## 📋 2. On Duty Management System
 
-Sakthivel V
+A web-based system designed to simplify duty scheduling, assignment allocation and progress tracking.
 
-Software Developer • Data Analytics Enthusiast
+### Key Features
+- Duty assignment
+- Task allocation
+- Progress monitoring
+- Status tracking
+- Responsive user interface
 
+### Tech Stack
+
+`HTML` `CSS` `Bootstrap` `PHP` `MySQL`
+
+---
+
+## 🛍️ 3. Men's Dressing Shop
+
+A responsive e-commerce website developed for a men's clothing store.
+
+### Key Features
+- Product browsing
+- Shopping cart
+- Login interface
+- Responsive design
+- Interactive user interface
+
+### Tech Stack
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+# 📊 Power BI Projects
+
+I have also developed interactive dashboards focused on data visualization and business insights.
+
+### 🌦️ Weather Analysis Dashboard
+
+An interactive dashboard presenting weather conditions, temperature trends, air quality, humidity, wind speed, precipitation and rainfall probability.
+
+### 🎬 Prime Video Dashboard
+
+A dashboard analyzing Prime Video content based on:
+
+- Titles
+- Genres
+- Directors
+- Ratings
+- Countries
+- Movies vs TV Shows
+- Release years
+
+### 📈 Sales Dashboard
+
+An interactive sales analytics dashboard showing:
+
+- Total Sales
+- Quantity
+- Profit
+- Profit %
+- Monthly sales & profit
+- Product-wise sales
+- Daily sales
+- Payment mode analysis
+
+---
+
+# 🎓 Education
+
+### Karpagam College of Engineering, Coimbatore
+**B.Tech – Information Technology**  
+2022 – 2026 | **CGPA: 8.16**
+
+### Sri Ramakrishna Matric Higher Secondary School, Perambalur
+**HSC – 2022** | **92.5%**
+
+**SSLC – 2020** | **99%**
+
+---
+
+# 📜 Certifications
+
+- 🏆 JavaScript & SQL — HackerRank
+- 🌐 Web Development — CodSoft Internship
+- ☕ Java — IIT Spoken Tutorial
+- 🐍 Python — IIT Spoken Tutorial
+- 💻 Full Stack Development — Infosys SpringBoard
+- ☕ Java Programming — Great Learning
+- 🍃 Introduction to MongoDB
+
+---
+
+# 📂 Repository Structure
+
+```text
+Portfolio-Main/
+│
+├── index.html
+├── style.css
+├── README.md
+│
+├── photo.png
+│
+├── D1.png
+├── D2.png
+├── D3.png
+├── dashboard.png
+├── home_page.png
+│
+└── ...
