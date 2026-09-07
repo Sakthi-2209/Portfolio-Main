@@ -528,6 +528,15 @@ section[id] {
 
 .project-links {
   margin-top: auto;
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  flex-wrap: wrap;
+  padding-top: 22px;
+}
+
+.project-links .project-link {
+  margin-top: 0;
 }
 
 .private-note {
